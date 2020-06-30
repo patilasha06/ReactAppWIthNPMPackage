@@ -1,0 +1,11 @@
+E:\React Applications\ReactScreenShareApplication\ReactScreenShareApplication\bin\Debug\netcoreapp2.0\ReactScreenShareApplication.deps.json
+E:\React Applications\ReactScreenShareApplication\ReactScreenShareApplication\bin\Debug\netcoreapp2.0\ReactScreenShareApplication.runtimeconfig.json
+E:\React Applications\ReactScreenShareApplication\ReactScreenShareApplication\bin\Debug\netcoreapp2.0\ReactScreenShareApplication.runtimeconfig.dev.json
+E:\React Applications\ReactScreenShareApplication\ReactScreenShareApplication\bin\Debug\netcoreapp2.0\ReactScreenShareApplication.dll
+E:\React Applications\ReactScreenShareApplication\ReactScreenShareApplication\bin\Debug\netcoreapp2.0\ReactScreenShareApplication.pdb
+E:\React Applications\ReactScreenShareApplication\ReactScreenShareApplication\obj\Debug\netcoreapp2.0\ReactScreenShareApplication.csprojAssemblyReference.cache
+E:\React Applications\ReactScreenShareApplication\ReactScreenShareApplication\obj\Debug\netcoreapp2.0\ReactScreenShareApplication.csproj.CoreCompileInputs.cache
+E:\React Applications\ReactScreenShareApplication\ReactScreenShareApplication\obj\Debug\netcoreapp2.0\ReactScreenShareApplication.AssemblyInfoInputs.cache
+E:\React Applications\ReactScreenShareApplication\ReactScreenShareApplication\obj\Debug\netcoreapp2.0\ReactScreenShareApplication.AssemblyInfo.cs
+E:\React Applications\ReactScreenShareApplication\ReactScreenShareApplication\obj\Debug\netcoreapp2.0\ReactScreenShareApplication.dll
+E:\React Applications\ReactScreenShareApplication\ReactScreenShareApplication\obj\Debug\netcoreapp2.0\ReactScreenShareApplication.pdb
